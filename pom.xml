@@ -65,6 +65,7 @@
                         <id>test</id>
                         <goals>
                             <goal>test</goal>
+                            <goal>testCompile</goal>
                         </goals>
                     </execution>
                 </executions>
