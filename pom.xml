@@ -37,6 +37,7 @@
                         <phase>compile</phase>
                         <goals>
                             <goal>compile</goal>
+                            <goal>testCompile</goal>
                         </goals>
                     </execution>
                 </executions>
@@ -65,7 +66,6 @@
                         <id>test</id>
                         <goals>
                             <goal>test</goal>
-                            <goal>testCompile</goal>
                         </goals>
                     </execution>
                 </executions>
